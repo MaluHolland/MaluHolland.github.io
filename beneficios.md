@@ -24,3 +24,7 @@ Quando a pressão no abdômen e na pelve aumenta repetida e cronicamente de form
 * Previne e melhora dores nas costas
 * Melhora a postura
 * Diminuição da circunferência abdominal
+
+1. Previne e melhora dores nas costas
+2. Melhora a postura
+3. Diminuição da circunferência abdominal
