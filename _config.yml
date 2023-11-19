@@ -6,12 +6,12 @@ description: LPF - Low Pressure Fitness para mais saúde e bem estar.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: Studio da Malu
+street_address: 
 city: Belo Horizonte  
 state: Minas Gerais
-zip_code: 55555
+zip_code:
 country: Brasil
-phone: (716) telefone da malu
+phone: (31)972161378
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub:
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  Google-Plus: 
+  Instagram: https://www.instagram.com/malu.holland.lpf/
+  LinkedIn: 
+  Twitter:
   Facebook:
   Slack:
 
