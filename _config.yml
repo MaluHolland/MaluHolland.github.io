@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Malu
+subtitle: LPF
+email: malu.limah@gmail.com
+description: LPF - Low Pressure Fitness para mais saúde e bem estar.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+street_address: Studio da Malu
+city: Belo Horizonte  
+state: Minas Gerais
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: Brasil
+phone: (716) telefone da malu
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
