@@ -21,4 +21,6 @@ Além disso, na fase da aspiração diafragmática, se tem uma tração nos pila
 Quando a pressão no abdômen e na pelve aumenta repetida e cronicamente de forma a desequilibrar a regulação normal da pressão abdominal, pode ocorrer uma série de problemas, como dores nas costas, separação abdominal, incontinência urinária, prolapso, hérnias etc. 
 
 
-
+* Previne e melhora dores nas costas
+* Melhora a postura
+* Diminuição da circunferência abdominal
