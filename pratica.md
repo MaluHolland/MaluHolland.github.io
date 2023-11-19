@@ -6,8 +6,14 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+# Qual é o diferencial da prática de LPF?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+## A metodologia LPF utiliza a técnica hipopressiva (hipo=baixa e pressiva= pressão) em sua prática
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+A técnica hipopressiva ocorre ao realizar a aspiração diafragmática (vácuo abdominal) que leva ao reposicionamento dos orgãos nas cavidades torácica, abdominal e perineal (assoalho pélvico) de modo a diminuir a pressão intra-abdominal para que seja possível desenvolver a força (tônus basal) da musculatura estabilizadora da coluna vertebral e lombo pélvica durante a realização das posturas ao mesmo tempo que normalizar as tensões miofasciais. 
+
+Além disso, na fase da aspiração diafragmática, se tem uma tração nos pilares do diafragma, o que vai aumentar o espaço intervertebral e, consequentemente, reduzir a compressão local alongando a coluna e o diafragma.
+
+### Porque normalizar a pressão intra-abdominal?
+
+Quando a pressão no abdômen e na pelve aumenta repetida e cronicamente de forma a desequilibrar a regulação normal da pressão abdominal, pode ocorrer uma série de problemas, como dores nas costas, separação abdominal, incontinência urinária, prolapso, hérnias etc. 
