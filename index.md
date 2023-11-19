@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Malu Holland gostosa'
+landing-title: 'Malu Holland'
 description: null
 image: null
 author: null
