@@ -5,26 +5,18 @@ description: Conheça seus benefícios
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
+A metodologia Low Pressure Fitness (LPF) é um treinamento que desenvolve respirações controladas e ritmadas seguidas do uso da ténica hipopressiva (vácuo abdominal) em diferentes posturas com o objetivo de desenvolver a FUNÇÃO do CORE, ou seja, o fortalecimento dos músculos centrais e mais profundos de forma segura e eficaz, e proporcionar outros benefícios. 
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.
-
-# Qual é o diferencial da prática de LPF?
-
-## A metodologia LPF utiliza a técnica hipopressiva (hipo=baixa e pressiva= pressão) em sua prática
-
-A técnica hipopressiva ocorre ao realizar a aspiração diafragmática (vácuo abdominal) que leva ao reposicionamento dos orgãos nas cavidades torácica, abdominal e perineal (assoalho pélvico) de modo a diminuir a pressão intra-abdominal para que seja possível desenvolver a força (tônus basal) da musculatura estabilizadora da coluna vertebral e lombo pélvica durante a realização das posturas ao mesmo tempo que normalizar as tensões miofasciais. 
-
-Além disso, na fase da aspiração diafragmática, se tem uma tração nos pilares do diafragma, o que vai aumentar o espaço intervertebral e, consequentemente, reduzir a compressão local alongando a coluna e o diafragma.
-
-### Porque normalizar a pressão intra-abdominal?
-
-Quando a pressão no abdômen e na pelve aumenta repetida e cronicamente de forma a desequilibrar a regulação normal da pressão abdominal, pode ocorrer uma série de problemas, como dores nas costas, separação abdominal, incontinência urinária, prolapso, hérnias etc. 
-
+# Os benefícios adquiridos com a prática regular de LPF:
 
 * Previne e melhora dores nas costas
 * Melhora a postura
-* Diminuição da circunferência abdominal
+​​​* Diminuição da circunferência abdominal
+* Restabelece e melhora a função do CORE
+* Melhora o funcionamento do intestino ​
+* Melhora o desempenho esportivo ​​​
+* Prevenção e auxílio no tratamento de incontinência urinária de esforço ​​​​
+* Acelera a recuperação pós-parto ( reabilitação da Diástase Abdominal e Assoalho Pélvico )
+* Diminuição das tensões musculares
+* Melhora da capacidade cardiorespiratória
 
-1. Previne e melhora dores nas costas
-2. Melhora a postura
-3. Diminuição da circunferência abdominal
