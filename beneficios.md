@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O que é LPF e seus benefícios
+title: O que é LPF <br />e seus benefícios
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
