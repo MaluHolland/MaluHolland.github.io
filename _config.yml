@@ -11,7 +11,7 @@ city: Belo Horizonte
 state: Minas Gerais
 zip_code:
 country: Brasil
-phone: (31)972161378
+phone: (31) 97216-1378
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
