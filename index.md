@@ -1,6 +1,6 @@
 ---
 layout: home
-title: LPF
+title: Início
 landing-title: 'Malu Holland'
 description: null
 image: null
