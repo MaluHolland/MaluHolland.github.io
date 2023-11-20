@@ -124,7 +124,7 @@ nav-menu: true
 				
 				Este treinamento gera a correção de restrições miofasciais existentes que refletirá numa melhora da postural e num melhor padrão respiratório favorecendo um corpo mais equilibrado e funcional como um todo.
 				
-				Pois quando você melhora a postura, você também ajuda a melhorar a capacidade respiratória e vice-versa, tudo isso cria um corpo que pode se mover sinergicamente e gerenciar o estresse da vida cotidiana, além das atividades físicas que amamos.</p>
+				Pois quando você melhora a postura, você também ajuda a melhorar a capacidade respiratória e vice-versa, tudo isso cria um corpo que pode se mover sinergicamente e gerenciar o estresse da vida cotidiana.</p>
 			</div>
 		</div>
 	</section>
