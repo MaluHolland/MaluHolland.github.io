@@ -22,7 +22,7 @@ nav-menu: true
 				</header>
 				<p> <p1>A técnica hipopressiva ocorre ao realizar a aspiração diafragmática (vácuo abdominal) que leva ao reposicionamento dos orgãos nas cavidades torácica, abdominal e perineal (assoalho pélvico) de modo a diminuir a pressão intra-abdominal para que seja possível desenvolver a força (tônus basal) da musculatura estabilizadora da coluna vertebral e lombo pélvica durante a realização das posturas ao mesmo tempo que normalizar as tensões miofasciais. 
 				Além disso, na fase da aspiração diafragmática, se tem uma tração nos pilares do diafragma, o que vai aumentar o espaço intervertebral e, consequentemente, reduzir a compressão local alongando a coluna e o diafragma.</p1>
-                                   <h4>Porque normalizar a pressão intra-abdominal?<h/4>
+                                   <h4>Porque normalizar a pressão intra-abdominal?</h4>
 				<p2>Quando a pressão no abdômen e na pelve aumenta repetida e cronicamente de forma a desequilibrar a regulação normal da pressão abdominal, pode ocorrer uma série de problemas, como dores nas costas, separação abdominal, incontinência urinária, prolapso, hérnias etc.</p2></p>
 			</div>
 		</div>
