@@ -2,7 +2,7 @@
 title: Diferenciais da prática do LPF
 layout: landing
 description: 'Porque o LPF se destaca como uma metodologia inovadora<br />'
-image: assets/images/pic07.jpg
+image: assets/images/pic00.jpg
 nav-menu: true
 ---
 
