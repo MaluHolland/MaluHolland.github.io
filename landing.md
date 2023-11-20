@@ -34,9 +34,6 @@ nav-menu: true
 				Além disso, na fase da aspiração diafragmática, se tem uma tração nos pilares do diafragma, o que vai aumentar o espaço intervertebral e, consequentemente, reduzir a compressão local alongando a coluna e o diafragma.
                                    Porque normalizar a pressão intra-abdominal?
 				Quando a pressão no abdômen e na pelve aumenta repetida e cronicamente de forma a desequilibrar a regulação normal da pressão abdominal, pode ocorrer uma série de problemas, como dores nas costas, separação abdominal, incontinência urinária, prolapso, hérnias etc.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -60,9 +57,6 @@ nav-menu: true
                                               PORQUÊ ISSO É IMPORTANTE
 
 				Num estado de relaxamento completo (sem tônus ou com tônus muito baixo), o músculo levaria mais tempo para iniciar a co-contração mediante um estímulo para realizar o movimento, consequentemente pessoas que possuem baixa capacidade de co-contração tem maior chance de desenvolver disfunções como lesões músculo-esqueléticas, hérnias, incontinência urinária entre outros problemas.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -82,9 +76,6 @@ nav-menu: true
 				Sabe aquela barriguinha proeminente (a famosa pochetinha)? Essa pode ser consequência das alterações posturais ocasionadas pela perda de mobilidade do diafragma o que também pode prejudicar o controle motor da coluna e sua estabilidade, que é ajustada pelo diafragma em conjunto com outros músculos.
 				Portanto, ao promover uma liberação miofascial do diafragma é possível melhorar a sua mobilidade e consequentemente a capacidade respiratória, o transito intestinal, ajuda na descompressão lombar, na circulação de retorno, na melhora da gestão de pressão interna abdominal e a ativação dos músculos de centro, além de outros benefícios.
 				Sendo o LPF uma ferramenta que auxilia na normalização da fáscia diafragmática de maneira ativa mediante a aplicação de diferentes métodos de treino respiratório para aumentar a mobilidade do diafragma.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -98,9 +89,6 @@ nav-menu: true
 					<h3>O LPF afina a cintura e diminui a circunferência abdominal</h3>
 				</header>
 				<p>Devido a normalização do tônus basal e da pressão intraabdominal pode ocorrer uma redução de até 12 cm de circunferência abdominal além de outras respostas estésticas na faixa abdominal.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -126,9 +114,6 @@ nav-menu: true
 				Sendo o LPF um treinamento respiratório consciente, rítmico e controlado que ativa o nervo vago responsável por diminuir a frequência cardíaca e respiratória, deixando o corpo em um estado de tranquilidade, e que também desempenha um papel fundamental na relação entre o sistema emocional, o trato gastrointestinal e a inflamação. De modo geral, um tônus vagal elevado está relacionado com altos níveis de conectividade e bem estar.
 
 				Além disso, o treinamento de LPF também atua diretamente na mobilização miofascial do diafragma com objetivo de melhorar sua mobilidade para que ocorra ajustes no controle e alinhamento postural, melhora da capacidade respiratória, do trânsito intestinal, da circulação de retorno, da descompressão da coluna lombar entre outras melhoras em diferentes sistemas abordados acima.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -150,9 +135,6 @@ nav-menu: true
 				Este treinamento gera a correção de restrições miofasciais existentes que refletirá numa melhora da postural e num melhor padrão respiratório favorecendo um corpo mais equilibrado e funcional como um todo.
 				
 				Pois quando você melhora a postura, você também ajuda a melhorar a capacidade respiratória e vice-versa, tudo isso cria um corpo que pode se mover sinergicamente e gerenciar o estresse da vida cotidiana, além das atividades físicas que amamos.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -186,9 +168,6 @@ nav-menu: true
 				A boa notícia é que o treinamento regular e sistemático do LPF promove um equilíbrio do sistema músculo - esquelético através da normalização das tensões neuromiofasciais , proporciona funcionalidade aos músculos do CORE e regulação das pressões intracavitárias para maior adaptabilidade para a parede abdominal 
 
 				Vale destacar que uma outra grande vantagem do método para pacientes herniados, é que durante a aspiração diafragmática ocorre uma tração nos pilares do diafragma , o que favorece o aumento dos espaços intervertebrais aliviando a compressão no núcleo pulposo.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
