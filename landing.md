@@ -88,23 +88,23 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
 <section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>O LPF reduz e afina a cintura e diminui a circunferência abdominal</h3>
+					<h3>O LPF afina a cintura e diminui a circunferência abdominal</h3>
 				</header>
-				<p>Devido a normalização do tônus basal e da pressão intraabdominal pode ocorrer uma redução de até 12 cm de circunferência abdominal além de outras respostas estésticas na faixa abdominal. </p>
+				<p>Devido a normalização do tônus basal e da pressão intraabdominal pode ocorrer uma redução de até 12 cm de circunferência abdominal além de outras respostas estésticas na faixa abdominal.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
-	</section>	
+	</section>
+	
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
