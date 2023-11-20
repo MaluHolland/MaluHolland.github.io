@@ -11,7 +11,7 @@ A metodologia Low Pressure Fitness (LPF) é um treinamento que desenvolve respir
 
 * Previne e melhora dores nas costas
 * Melhora a postura
-​​​* Diminuição da circunferência abdominal
+​* Diminuição da circunferência abdominal
 * Melhora a função do CORE
 * Melhora o funcionamento do intestino ​
 * Melhora o desempenho esportivo ​​​
