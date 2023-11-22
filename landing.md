@@ -15,7 +15,7 @@ nav-menu: true
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
-		<div class="content">
+		<div style="text-align:center" class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>A metodologia LPF utiliza a técnica hipopressiva (hipo=baixa e pressiva= pressão) em sua prática</h3>
