@@ -15,7 +15,7 @@ nav-menu: true
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
-		<div style="text-align:center" class="content">
+		<div style="text-align:justify" class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>A metodologia LPF utiliza a técnica hipopressiva (hipo=baixa e pressiva= pressão) em sua prática</h3>
@@ -31,18 +31,18 @@ nav-menu: true
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic05.jpg %}" alt="" data-position="top center" />
 		</a>
-		<div class="content">
+		<div style="text-align:justify" class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>O LPF fortalece o abdômen através de exercícios de baixa pressão</h3>
 				</header>
-				<p>E o que quero dizer é que o LPF melhora a função do CORE, que é formado pelos músculos centrais do nosso corpo, sendo os principais, músculos abdominais, paravertebrais (músculos que estabilizam a coluna), assoalho pélvico e o diafragma.
+				<p> <p1>E o que quero dizer é que o LPF melhora a função do CORE, que é formado pelos músculos centrais do nosso corpo, sendo os principais, músculos abdominais, paravertebrais (músculos que estabilizam a coluna), assoalho pélvico e o diafragma.</p1>
 
-				Essa melhora da função do core é conquistada pela prática regular de LPF que proporciona uma redução da pressão abdominal para desenvolver a força da musculatura estabilizadora da coluna vertebral, abdominal e do assoalho pélvico de forma segura sem sobrecarregar as estruturas, ao mesmo tempo que normalizar as tensões musculares.
+				<p2>Essa melhora da função do core é conquistada pela prática regular de LPF que proporciona uma redução da pressão abdominal para desenvolver a força da musculatura estabilizadora da coluna vertebral, abdominal e do assoalho pélvico de forma segura sem sobrecarregar as estruturas, ao mesmo tempo que normalizar as tensões musculares.</p2>
 
- 				A relevância desse diferencial está no fato de que qualquer pessoa pode obter os todos os benefícios com a prática regular, contudo esse fundamento pode ser considerado essencial para  pessoas com dores na coluna, que possuem assoalho pélvico enfraquecido, que tem outras limitações/ lesões osteomioarticulares, que estão em processo de recuperação pós-parto e/ou que tem diástase abdominal.
+ 				<p3>A relevância desse diferencial está no fato de que qualquer pessoa pode obter os todos os benefícios com a prática regular, contudo esse fundamento pode ser considerado essencial para  pessoas com dores na coluna, que possuem assoalho pélvico enfraquecido, que tem outras limitações/ lesões osteomioarticulares, que estão em processo de recuperação pós-parto e/ou que tem diástase abdominal.</p3>
 
-				Vale destacar que a melhora da função do core ocorre mediante a regulação do tônus basal (estado de tensão parcial dos músculos em repouso) da musculatura estabilizadora da coluna vertebral, abdominal e do assoalho pélvico o que refletirá na melhora da capacidade de CO-CONTRAÇÃO desses músculos em situações cotidianas que levam ao aumento de pressão intra-abdominal.
+				<p4>Vale destacar que a melhora da função do core ocorre mediante a regulação do tônus basal (estado de tensão parcial dos músculos em repouso) da musculatura estabilizadora da coluna vertebral, abdominal e do assoalho pélvico o que refletirá na melhora da capacidade de CO-CONTRAÇÃO desses músculos em situações cotidianas que levam ao aumento de pressão intra-abdominal.</p4>
 
                                               PORQUÊ ISSO É IMPORTANTE
 
@@ -54,18 +54,19 @@ nav-menu: true
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
-		<div class="content">
+		<div style="text-align:justify" class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>O LPF melhora a mobilidade do diafragma</h3>
 				</header>
-				<p>Você sabia que o diafragma torácico é o principal músculo da respiração? E que ele influência a postura corporal?
+				<p> <h2>Você sabia que o diafragma torácico é o principal músculo da respiração? E que ele influência a postura corporal?</h2>
 
-				Os sistemas respiratório e musculoesquelético estão intimamente relacionados  e podem sofrer alterações diante do estilo de vida sedentário ou da prática excessiva de esportes. Alterações que contribuem para aumentar a rigidez da caixa torácica dificultando sua expansão, função respiratória, levam a alterações posturais e do funcionamento de outros sistemas interligados ao diafragma.
+				<p1>Os sistemas respiratório e musculoesquelético estão intimamente relacionados  e podem sofrer alterações diante do estilo de vida sedentário ou da prática excessiva de esportes. Alterações que contribuem para aumentar a rigidez da caixa torácica dificultando sua expansão, função respiratória, levam a alterações posturais e do funcionamento de outros sistemas interligados ao diafragma.</p1>
 
-				Sabe aquela barriguinha proeminente (a famosa pochetinha)? Essa pode ser consequência das alterações posturais ocasionadas pela perda de mobilidade do diafragma o que também pode prejudicar o controle motor da coluna e sua estabilidade, que é ajustada pelo diafragma em conjunto com outros músculos.
-				Portanto, ao promover uma liberação miofascial do diafragma é possível melhorar a sua mobilidade e consequentemente a capacidade respiratória, o transito intestinal, ajuda na descompressão lombar, na circulação de retorno, na melhora da gestão de pressão interna abdominal e a ativação dos músculos de centro, além de outros benefícios.
-				Sendo o LPF uma ferramenta que auxilia na normalização da fáscia diafragmática de maneira ativa mediante a aplicação de diferentes métodos de treino respiratório para aumentar a mobilidade do diafragma.</p>
+				<p3>Sabe aquela barriguinha proeminente (a famosa pochetinha)? Essa pode ser consequência das alterações posturais ocasionadas pela perda de mobilidade do diafragma o que também pode prejudicar o controle motor da coluna e sua estabilidade, que é ajustada pelo diafragma em conjunto com outros músculos.
+				Portanto, ao promover uma liberação miofascial do diafragma é possível melhorar a sua mobilidade e consequentemente a capacidade respiratória, o transito intestinal, ajuda na descompressão lombar, na circulação de retorno, na melhora da gestão de pressão interna abdominal e a ativação dos músculos de centro, além de outros benefícios.</p3>
+				
+				<p4>Sendo o LPF uma ferramenta que auxilia na normalização da fáscia diafragmática de maneira ativa mediante a aplicação de diferentes métodos de treino respiratório para aumentar a mobilidade do diafragma.</p4> </p>
 			</div>
 		</div>
 	</section>
@@ -73,7 +74,7 @@ nav-menu: true
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="25% 25%" />
 		</a>
-		<div class="content">
+		<div style="text-align:justify" class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>O LPF afina a cintura e diminui a circunferência abdominal</h3>
@@ -88,7 +89,7 @@ nav-menu: true
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic11.jpg %}" alt="" data-position="center center" />
 		</a>
-		<div class="content">
+		<div style="text-align:justify" class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>O LPF é um treinamento respiratório</h3>
@@ -112,7 +113,7 @@ nav-menu: true
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic12.jpg %}" alt="" data-position="25% 25%" />
 		</a>
-		<div class="content">
+		<div style="text-align:justify" class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>O LPF melhora a postura</h3>
@@ -132,7 +133,7 @@ nav-menu: true
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic13.jpg %}" alt="" data-position="center center" />
 		</a>
-		<div class="content">
+		<div style="text-align:justify" class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>O LPF pode auxiliar na prevenção e no tratamento das hérnias abdominais e discais</h3>
@@ -163,7 +164,7 @@ nav-menu: true
 
 <!-- Three -->
 <section id="three">
-	<div class="inner">
+	<div  class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
 		</header>
