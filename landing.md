@@ -64,7 +64,7 @@ nav-menu: true
 				<p1>Os sistemas respiratório e musculoesquelético estão intimamente relacionados  e podem sofrer alterações diante do estilo de vida sedentário ou da prática excessiva de esportes. Alterações que contribuem para aumentar a rigidez da caixa torácica dificultando sua expansão, função respiratória, levam a alterações posturais e do funcionamento de outros sistemas interligados ao diafragma.</p1> <br>
 
 				<p3>Sabe aquela barriguinha proeminente (a famosa pochetinha)? Essa pode ser consequência das alterações posturais ocasionadas pela perda de mobilidade do diafragma o que também pode prejudicar o controle motor da coluna e sua estabilidade, que é ajustada pelo diafragma em conjunto com outros músculos. </p3> <br>
-				Portanto, ao promover uma liberação miofascial do diafragma é possível melhorar a sua mobilidade e consequentemente a capacidade respiratória, o transito intestinal, ajuda na descompressão lombar, na circulação de retorno, na melhora da gestão de pressão interna abdominal e a ativação dos músculos de centro, além de outros benefícios.</p3> <br>
+				Portanto, ao promover uma liberação miofascial do diafragma é possível melhorar a sua mobilidade e consequentemente a capacidade respiratória, o transito intestinal, ajuda na descompressão lombar, na circulação de retorno, na melhora da gestão de pressão interna abdominal e a ativação dos músculos de centro, além de outros benefícios. <br>
 				
 				<p4>Sendo o LPF uma ferramenta que auxilia na normalização da fáscia diafragmática de maneira ativa mediante a aplicação de diferentes métodos de treino respiratório para aumentar a mobilidade do diafragma.</p4> </p>
 			</div>
