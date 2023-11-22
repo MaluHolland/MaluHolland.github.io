@@ -114,7 +114,7 @@ nav-menu: true
 			<img src="{% link assets/images/pic12.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div style="text-align:justify" class="content">
-			<div align="left" class="inner">
+			<div class="inner">
 				<header class="major">
 					<h3>O LPF melhora a postura</h3>
 				</header>
