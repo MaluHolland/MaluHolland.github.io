@@ -36,13 +36,13 @@ nav-menu: true
 				<header class="major">
 					<h3>O LPF fortalece o abdômen através de exercícios de baixa pressão</h3>
 				</header>
-				<p> <p1>E o que quero dizer é que o LPF melhora a função do CORE, que é formado pelos músculos centrais do nosso corpo, sendo os principais, músculos abdominais, paravertebrais (músculos que estabilizam a coluna), assoalho pélvico e o diafragma.</p1>
+				<p> <p1>E o que quero dizer é que o LPF melhora a função do CORE, que é formado pelos músculos centrais do nosso corpo, sendo os principais, músculos abdominais, paravertebrais (músculos que estabilizam a coluna), assoalho pélvico e o diafragma.</p1> <br>
 
-				<p2>Essa melhora da função do core é conquistada pela prática regular de LPF que proporciona uma redução da pressão abdominal para desenvolver a força da musculatura estabilizadora da coluna vertebral, abdominal e do assoalho pélvico de forma segura sem sobrecarregar as estruturas, ao mesmo tempo que normalizar as tensões musculares.</p2>
+				<p2>Essa melhora da função do core é conquistada pela prática regular de LPF que proporciona uma redução da pressão abdominal para desenvolver a força da musculatura estabilizadora da coluna vertebral, abdominal e do assoalho pélvico de forma segura sem sobrecarregar as estruturas, ao mesmo tempo que normalizar as tensões musculares.</p2> <br>
 
- 				<p3>A relevância desse diferencial está no fato de que qualquer pessoa pode obter os todos os benefícios com a prática regular, contudo esse fundamento pode ser considerado essencial para  pessoas com dores na coluna, que possuem assoalho pélvico enfraquecido, que tem outras limitações/ lesões osteomioarticulares, que estão em processo de recuperação pós-parto e/ou que tem diástase abdominal.</p3>
+ 				<p3>A relevância desse diferencial está no fato de que qualquer pessoa pode obter os todos os benefícios com a prática regular, contudo esse fundamento pode ser considerado essencial para  pessoas com dores na coluna, que possuem assoalho pélvico enfraquecido, que tem outras limitações/ lesões osteomioarticulares, que estão em processo de recuperação pós-parto e/ou que tem diástase abdominal.</p3> <br>
 
-				<p4>Vale destacar que a melhora da função do core ocorre mediante a regulação do tônus basal (estado de tensão parcial dos músculos em repouso) da musculatura estabilizadora da coluna vertebral, abdominal e do assoalho pélvico o que refletirá na melhora da capacidade de CO-CONTRAÇÃO desses músculos em situações cotidianas que levam ao aumento de pressão intra-abdominal.</p4>
+				<p4>Vale destacar que a melhora da função do core ocorre mediante a regulação do tônus basal (estado de tensão parcial dos músculos em repouso) da musculatura estabilizadora da coluna vertebral, abdominal e do assoalho pélvico o que refletirá na melhora da capacidade de CO-CONTRAÇÃO desses músculos em situações cotidianas que levam ao aumento de pressão intra-abdominal.</p4> <br>
 
                                               PORQUÊ ISSO É IMPORTANTE
 
@@ -61,10 +61,10 @@ nav-menu: true
 				</header>
 				<p> <h2>Você sabia que o diafragma torácico é o principal músculo da respiração? E que ele influência a postura corporal?</h2>
 
-				<p1>Os sistemas respiratório e musculoesquelético estão intimamente relacionados  e podem sofrer alterações diante do estilo de vida sedentário ou da prática excessiva de esportes. Alterações que contribuem para aumentar a rigidez da caixa torácica dificultando sua expansão, função respiratória, levam a alterações posturais e do funcionamento de outros sistemas interligados ao diafragma.</p1>
+				<p1>Os sistemas respiratório e musculoesquelético estão intimamente relacionados  e podem sofrer alterações diante do estilo de vida sedentário ou da prática excessiva de esportes. Alterações que contribuem para aumentar a rigidez da caixa torácica dificultando sua expansão, função respiratória, levam a alterações posturais e do funcionamento de outros sistemas interligados ao diafragma.</p1> <br>
 
-				<p3>Sabe aquela barriguinha proeminente (a famosa pochetinha)? Essa pode ser consequência das alterações posturais ocasionadas pela perda de mobilidade do diafragma o que também pode prejudicar o controle motor da coluna e sua estabilidade, que é ajustada pelo diafragma em conjunto com outros músculos.
-				Portanto, ao promover uma liberação miofascial do diafragma é possível melhorar a sua mobilidade e consequentemente a capacidade respiratória, o transito intestinal, ajuda na descompressão lombar, na circulação de retorno, na melhora da gestão de pressão interna abdominal e a ativação dos músculos de centro, além de outros benefícios.</p3>
+				<p3>Sabe aquela barriguinha proeminente (a famosa pochetinha)? Essa pode ser consequência das alterações posturais ocasionadas pela perda de mobilidade do diafragma o que também pode prejudicar o controle motor da coluna e sua estabilidade, que é ajustada pelo diafragma em conjunto com outros músculos. </p3> <br>
+				Portanto, ao promover uma liberação miofascial do diafragma é possível melhorar a sua mobilidade e consequentemente a capacidade respiratória, o transito intestinal, ajuda na descompressão lombar, na circulação de retorno, na melhora da gestão de pressão interna abdominal e a ativação dos músculos de centro, além de outros benefícios.</p3> <br>
 				
 				<p4>Sendo o LPF uma ferramenta que auxilia na normalização da fáscia diafragmática de maneira ativa mediante a aplicação de diferentes métodos de treino respiratório para aumentar a mobilidade do diafragma.</p4> </p>
 			</div>
@@ -94,17 +94,17 @@ nav-menu: true
 				<header class="major">
 					<h3>O LPF é um treinamento respiratório</h3>
 				</header>
-				<p>Treinamentos respiratórios proporcionam uma melhora na qualidade de vida e podem regular de uma maneira fácil a diminuição do nível de estresse, além de proporcionar muitos outros benefícios à saúde, pois o sistema respiratório está interligado com diferentes funções do corpo através do diafragma (o principal músculo da respiração).
+				<p> <p1>Treinamentos respiratórios proporcionam uma melhora na qualidade de vida e podem regular de uma maneira fácil a diminuição do nível de estresse, além de proporcionar muitos outros benefícios à saúde, pois o sistema respiratório está interligado com diferentes funções do corpo através do diafragma (o principal músculo da respiração).</p1> <br>
 
-				Funções que se referem ao sistemas do corpo e que estão intimamente relacionadas ao diafragma, tais como: ventilatório, vascular e linfático, estabilizador da coluna, postural, somato-emocional (através da sua ligação com o nervo vago), disgestivo, vocal.
+				<p2>Funções que se referem ao sistemas do corpo e que estão intimamente relacionadas ao diafragma, tais como: ventilatório, vascular e linfático, estabilizador da coluna, postural, somato-emocional (através da sua ligação com o nervo vago), disgestivo, vocal.</p2> <br>
 
-				Alterações no padrão respiratório podem levar ao desenvolvimento de uma respiração disfuncional, que pode gerar desordens como a hiperventilação, desequilibrios musculares, comprometimento da estabilidade da coluna vertebral, disfunção do assoalho pélvico, disfunção das cordas vocais, estresse e ansiedade entre outros problemas.
+				<p3>Alterações no padrão respiratório podem levar ao desenvolvimento de uma respiração disfuncional, que pode gerar desordens como a hiperventilação, desequilibrios musculares, comprometimento da estabilidade da coluna vertebral, disfunção do assoalho pélvico, disfunção das cordas vocais, estresse e ansiedade entre outros problemas.</p3> <br>
 
-				Felizmente, também temos o poder de mudar deliberadamente a nossa respiração através do treinamento respiratório que proporcionará um efeito de relaxamento, equilíbrio do sistema nervoso autônomo através de uma maior atividade do sistema nervoso parassimpático, diminuição do estresse e ansiedade, além de outros benefícios abordados abaixo.
+				<p4>Felizmente, também temos o poder de mudar deliberadamente a nossa respiração através do treinamento respiratório que proporcionará um efeito de relaxamento, equilíbrio do sistema nervoso autônomo através de uma maior atividade do sistema nervoso parassimpático, diminuição do estresse e ansiedade, além de outros benefícios abordados abaixo.</p4> <br>
 
-				Sendo o LPF um treinamento respiratório consciente, rítmico e controlado que ativa o nervo vago responsável por diminuir a frequência cardíaca e respiratória, deixando o corpo em um estado de tranquilidade, e que também desempenha um papel fundamental na relação entre o sistema emocional, o trato gastrointestinal e a inflamação. De modo geral, um tônus vagal elevado está relacionado com altos níveis de conectividade e bem estar.
+				<p5>Sendo o LPF um treinamento respiratório consciente, rítmico e controlado que ativa o nervo vago responsável por diminuir a frequência cardíaca e respiratória, deixando o corpo em um estado de tranquilidade, e que também desempenha um papel fundamental na relação entre o sistema emocional, o trato gastrointestinal e a inflamação. De modo geral, um tônus vagal elevado está relacionado com altos níveis de conectividade e bem estar.<p/5> <br>
 
-				Além disso, o treinamento de LPF também atua diretamente na mobilização miofascial do diafragma com objetivo de melhorar sua mobilidade para que ocorra ajustes no controle e alinhamento postural, melhora da capacidade respiratória, do trânsito intestinal, da circulação de retorno, da descompressão da coluna lombar entre outras melhoras em diferentes sistemas abordados acima.</p>
+				<p6>Além disso, o treinamento de LPF também atua diretamente na mobilização miofascial do diafragma com objetivo de melhorar sua mobilidade para que ocorra ajustes no controle e alinhamento postural, melhora da capacidade respiratória, do trânsito intestinal, da circulação de retorno, da descompressão da coluna lombar entre outras melhoras em diferentes sistemas abordados acima.</p6> </p>
 			</div>
 		</div>
 	</section>
@@ -118,13 +118,13 @@ nav-menu: true
 				<header class="major">
 					<h3>O LPF melhora a postura</h3>
 				</header>
-				<p>Uma variedade de posturas hipopressivas integram o método com a finalidade de proporcionar a normalização das tensões miofasciais e da função do core para reestabelecer um melhor alinhamento corporal.  
+				<p> <p1>Uma variedade de posturas hipopressivas integram o método com a finalidade de proporcionar a normalização das tensões miofasciais e da função do core para reestabelecer um melhor alinhamento corporal.</p1> <br> 
  				
-				Sendo que o programa de treinamento em LPF visa a maior precisão na execução da postura para estimular o desenvolvimento da tensegridade postural (palavra que combina “tensão” e “integridade”), que ocorre mediante ações musculares isométricas e excêntricas que levam ao tracionamento e alongamento do corpo em diferentes sentidos  proporcionando  um alongamento global: visceral, fascial e muscular. 
+				<p2>Sendo que o programa de treinamento em LPF visa a maior precisão na execução da postura para estimular o desenvolvimento da tensegridade postural (palavra que combina “tensão” e “integridade”), que ocorre mediante ações musculares isométricas e excêntricas que levam ao tracionamento e alongamento do corpo em diferentes sentidos  proporcionando  um alongamento global: visceral, fascial e muscular.</p2> <br>
 				
-				Este treinamento gera a correção de restrições miofasciais existentes que refletirá numa melhora da postural e num melhor padrão respiratório favorecendo um corpo mais equilibrado e funcional como um todo.
+				<p3>Este treinamento gera a correção de restrições miofasciais existentes que refletirá numa melhora da postural e num melhor padrão respiratório favorecendo um corpo mais equilibrado e funcional como um todo.</p3> <br>
 				
-				Pois quando você melhora a postura, você também ajuda a melhorar a capacidade respiratória e vice-versa, tudo isso cria um corpo que pode se mover sinergicamente e gerenciar o estresse da vida cotidiana.</p>
+				<p4>Pois quando você melhora a postura, você também ajuda a melhorar a capacidade respiratória e vice-versa, tudo isso cria um corpo que pode se mover sinergicamente e gerenciar o estresse da vida cotidiana. </p4> </p>
 			</div>
 		</div>
 	</section>
@@ -138,23 +138,23 @@ nav-menu: true
 				<header class="major">
 					<h3>O LPF pode auxiliar na prevenção e no tratamento das hérnias abdominais e discais</h3>
 				</header>
-				<p>As hérnias são causadas pela fraqueza da parede abdominal associada a um aumento na pressão intra-abdominal (PIA), que projetam os tecidos e órgãos internos através de uma área fraca da parede abdominal. 
+				<p> As hérnias são causadas pela fraqueza da parede abdominal associada a um aumento na pressão intra-abdominal (PIA), que projetam os tecidos e órgãos internos através de uma área fraca da parede abdominal. <br>
 				
-				Sendo o interior do abdômen naturalmente pressurizado para manter a estabilização da coluna. Porém, assim como a pressão arterial, a pressão abdominal precisa permanecer dentro da faixa normal para não surgir problemas.
+				Sendo o interior do abdômen naturalmente pressurizado para manter a estabilização da coluna. Porém, assim como a pressão arterial, a pressão abdominal precisa permanecer dentro da faixa normal para não surgir problemas.<br>
 				
-				Um dos motivos que levam a ineficiência na gestão da PIA é a incompetência abdominal e perineal (assoalho pélvico) mediante o aumento das pressões internas.  Esses músculos precisam ser funcionais no que se refere a um bom tônus basal e principalmente a uma co-ativação eficaz (ativação de maneira involuntária mediante o aumento da pressão intra-abdominal), caso contrário o ponto mais débil cederá com a constante do aumento de pressão.
+				Um dos motivos que levam a ineficiência na gestão da PIA é a incompetência abdominal e perineal (assoalho pélvico) mediante o aumento das pressões internas.  Esses músculos precisam ser funcionais no que se refere a um bom tônus basal e principalmente a uma co-ativação eficaz (ativação de maneira involuntária mediante o aumento da pressão intra-abdominal), caso contrário o ponto mais débil cederá com a constante do aumento de pressão. <br>
 				
-				Algumas atividades cotidianas levam a um aumento da PIA entre outros fatores como tosse crônica, obesidade, gestação, constipação, atividade física de alto impacto etc. Quando os músculo centrais (citados acimas) não correspondem de maneira eficaz ao aumento da PIA ocorre uma pressão na parede abdominal e esse estresse repetitivo pode causar pequenas rupturas nos músculos e tecidos conjuntivos (fáscia) e, com o tempo, o estresse contínuo da PIA elevada enfraquece gradualmente esses tecidos miofasciais. Embora tecidos miofasciais (fáscia+músculos) saudáveis ​​e fortes geralmente possam resistir a alterações normais na pressão abdominal.
+				Algumas atividades cotidianas levam a um aumento da PIA entre outros fatores como tosse crônica, obesidade, gestação, constipação, atividade física de alto impacto etc. Quando os músculo centrais (citados acimas) não correspondem de maneira eficaz ao aumento da PIA ocorre uma pressão na parede abdominal e esse estresse repetitivo pode causar pequenas rupturas nos músculos e tecidos conjuntivos (fáscia) e, com o tempo, o estresse contínuo da PIA elevada enfraquece gradualmente esses tecidos miofasciais. Embora tecidos miofasciais (fáscia+músculos) saudáveis ​​e fortes geralmente possam resistir a alterações normais na pressão abdominal. <br>
 				
-				Há outros fatores que contribuem para o enfraquecimento fascial como por exemplo uma cicatriz resultante de uma cirurgia realizada ou também uma lesão na parede abdominal. Além disso, algumas partes da parede abdominal são naturalmente frágeis, como o umbigo (umbigo) e a região inguinal. É por isso que as hérnias incisionais, inguinais e umbilicais são os três tipos mais comuns de hérnias.
+				Há outros fatores que contribuem para o enfraquecimento fascial como por exemplo uma cicatriz resultante de uma cirurgia realizada ou também uma lesão na parede abdominal. Além disso, algumas partes da parede abdominal são naturalmente frágeis, como o umbigo (umbigo) e a região inguinal. É por isso que as hérnias incisionais, inguinais e umbilicais são os três tipos mais comuns de hérnias. <br>
 				
-				Isso também pode ser a causa de hérnias discais assim como, por exempllo, um trauma direto sofrido em um acidente que leva a uma alteração discal, adaptações posturais que sobrecarregam o disco, alterações de origem viscerais (útero, ovários, estômago etc ) podem também sobrecarregar algum ponto específico da coluna gerando disfunções como uma a hérnia.
+				Isso também pode ser a causa de hérnias discais assim como, por exempllo, um trauma direto sofrido em um acidente que leva a uma alteração discal, adaptações posturais que sobrecarregam o disco, alterações de origem viscerais (útero, ovários, estômago etc ) podem também sobrecarregar algum ponto específico da coluna gerando disfunções como uma a hérnia. <br>
 
-				Então, um dia, você levanta algo pesado - assim como fez muitas vezes antes - mas desta vez você “de repente” desenvolve uma hérnia.
+				Então, um dia, você levanta algo pesado - assim como fez muitas vezes antes - mas desta vez você “de repente” desenvolve uma hérnia. <br>
 				
-				Entretanto, vale destacar que pode haver uma forte componente genético que pode tornar alguém mais ou menos propenso a desenvolver uma hérnia, independentemente dos seus níveis de atividade, pois algumas pessoas podem nunca desenvolverem hérnias apesar de suas atividades que aumentariam a chance e outras que desenvolvem apesar da baixissima chance existente em seus hábitos de vida.
+				Entretanto, vale destacar que pode haver uma forte componente genético que pode tornar alguém mais ou menos propenso a desenvolver uma hérnia, independentemente dos seus níveis de atividade, pois algumas pessoas podem nunca desenvolverem hérnias apesar de suas atividades que aumentariam a chance e outras que desenvolvem apesar da baixissima chance existente em seus hábitos de vida. <br>
 				
-				A boa notícia é que o treinamento regular e sistemático do LPF promove um equilíbrio do sistema músculo - esquelético através da normalização das tensões neuromiofasciais , proporciona funcionalidade aos músculos do CORE e regulação das pressões intracavitárias para maior adaptabilidade para a parede abdominal 
+				A boa notícia é que o treinamento regular e sistemático do LPF promove um equilíbrio do sistema músculo - esquelético através da normalização das tensões neuromiofasciais , proporciona funcionalidade aos músculos do CORE e regulação das pressões intracavitárias para maior adaptabilidade para a parede abdominal <br>
 
 				Vale destacar que uma outra grande vantagem do método para pacientes herniados, é que durante a aspiração diafragmática ocorre uma tração nos pilares do diafragma , o que favorece o aumento dos espaços intervertebrais aliviando a compressão no núcleo pulposo.</p>
 			</div>
