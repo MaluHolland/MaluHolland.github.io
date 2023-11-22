@@ -111,7 +111,7 @@ nav-menu: true
 </section>
 <section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/pic12.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div style="text-align:justify" class="content">
 			<div class="inner">
@@ -128,7 +128,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	
+
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
