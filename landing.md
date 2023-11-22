@@ -59,7 +59,7 @@ nav-menu: true
 				<header class="major">
 					<h3>O LPF melhora a mobilidade do diafragma</h3>
 				</header>
-				<p> <h2>Você sabia que o diafragma torácico é o principal músculo da respiração? E que ele influência a postura corporal?</h2>
+				<p> <h4>Você sabia que o diafragma torácico é o principal músculo da respiração? E que ele influência a postura corporal?</h4>
 
 				<p1>Os sistemas respiratório e musculoesquelético estão intimamente relacionados  e podem sofrer alterações diante do estilo de vida sedentário ou da prática excessiva de esportes. Alterações que contribuem para aumentar a rigidez da caixa torácica dificultando sua expansão, função respiratória, levam a alterações posturais e do funcionamento de outros sistemas interligados ao diafragma.</p1> <br>
 
@@ -109,28 +109,26 @@ nav-menu: true
 		</div>
 	</section>
 </section>
-<section id="two" class="spotlights">
 <section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic12.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div style="text-align:justify" class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>O LPF melhora a postura</h3>
 				</header>
-				<p> <p1>Uma variedade de posturas hipopressivas integram o método com a finalidade de proporcionar a normalização das tensões miofasciais e da função do core para reestabelecer um melhor alinhamento corporal.</p1> <br> 
+				<p><p1>Uma variedade de posturas hipopressivas integram o método com a finalidade de proporcionar a normalização das tensões miofasciais e da função do core para reestabelecer um melhor alinhamento corporal.</p1> <br> 
  				
 				<p2>Sendo que o programa de treinamento em LPF visa a maior precisão na execução da postura para estimular o desenvolvimento da tensegridade postural (palavra que combina “tensão” e “integridade”), que ocorre mediante ações musculares isométricas e excêntricas que levam ao tracionamento e alongamento do corpo em diferentes sentidos  proporcionando  um alongamento global: visceral, fascial e muscular.</p2> <br>
 				
 				<p3>Este treinamento gera a correção de restrições miofasciais existentes que refletirá numa melhora da postural e num melhor padrão respiratório favorecendo um corpo mais equilibrado e funcional como um todo.</p3> <br>
 				
-				<p4>Pois quando você melhora a postura, você também ajuda a melhorar a capacidade respiratória e vice-versa, tudo isso cria um corpo que pode se mover sinergicamente e gerenciar o estresse da vida cotidiana. </p4> </p>
+				<p4>Pois quando você melhora a postura, você também ajuda a melhorar a capacidade respiratória e vice-versa, tudo isso cria um corpo que pode se mover sinergicamente e gerenciar o estresse da vida cotidiana. </p4></p>
 			</div>
 		</div>
 	</section>
-	</section>
-
+	
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
