@@ -3,7 +3,7 @@ layout: post
 title: Treino da Fernanda
 description: Conheça seus benefícios
 image: assets/images/pic00.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 # TREINO DA FERNANDA
