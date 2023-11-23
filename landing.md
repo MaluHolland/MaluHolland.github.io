@@ -132,7 +132,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/pic13.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div style="text-align:justify" class="content">
 			<div class="inner">
@@ -161,6 +161,9 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+</section>
+
+
 <!-- Three -->
 <section id="three">
 	<div  class="inner">
