@@ -132,14 +132,14 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic13.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div style="text-align:justify" class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>O LPF pode auxiliar na prevenção e no tratamento das hérnias abdominais e discais</h3>
 				</header>
-				<p> As hérnias são causadas pela fraqueza da parede abdominal associada a um aumento na pressão intra-abdominal (PIA), que projetam os tecidos e órgãos internos através de uma área fraca da parede abdominal. <br>
+				<p>As hérnias são causadas pela fraqueza da parede abdominal associada a um aumento na pressão intra-abdominal (PIA), que projetam os tecidos e órgãos internos através de uma área fraca da parede abdominal. <br>
 				
 				Sendo o interior do abdômen naturalmente pressurizado para manter a estabilização da coluna. Porém, assim como a pressão arterial, a pressão abdominal precisa permanecer dentro da faixa normal para não surgir problemas.<br>
 				
@@ -161,8 +161,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
-
 <!-- Three -->
 <section id="three">
 	<div  class="inner">
