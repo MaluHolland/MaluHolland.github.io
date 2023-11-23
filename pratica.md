@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Como é praticado o LPF
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
