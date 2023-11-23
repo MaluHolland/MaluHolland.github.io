@@ -6,6 +6,8 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
+<div id="main" class="alt">
+
 # Qual é o diferencial da prática de LPF?
 
 ## A metodologia LPF utiliza a técnica hipopressiva (hipo=baixa e pressiva= pressão) em sua prática
@@ -17,3 +19,5 @@ Além disso, na fase da aspiração diafragmática, se tem uma tração nos pila
 ### Porque normalizar a pressão intra-abdominal?
 
 Quando a pressão no abdômen e na pelve aumenta repetida e cronicamente de forma a desequilibrar a regulação normal da pressão abdominal, pode ocorrer uma série de problemas, como dores nas costas, separação abdominal, incontinência urinária, prolapso, hérnias etc. 
+
+</div>
