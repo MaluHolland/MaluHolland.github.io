@@ -102,7 +102,7 @@ nav-menu: true
 
 				<p4>Felizmente, também temos o poder de mudar deliberadamente a nossa respiração através do treinamento respiratório que proporcionará um efeito de relaxamento, equilíbrio do sistema nervoso autônomo através de uma maior atividade do sistema nervoso parassimpático, diminuição do estresse e ansiedade, além de outros benefícios abordados abaixo.</p4> <br>
 
-				<p5>Sendo o LPF um treinamento respiratório consciente, rítmico e controlado que ativa o nervo vago responsável por diminuir a frequência cardíaca e respiratória, deixando o corpo em um estado de tranquilidade, e que também desempenha um papel fundamental na relação entre o sistema emocional, o trato gastrointestinal e a inflamação. De modo geral, um tônus vagal elevado está relacionado com altos níveis de conectividade e bem estar.<p/5> <br>
+				<p5>Sendo o LPF um treinamento respiratório consciente, rítmico e controlado que ativa o nervo vago responsável por diminuir a frequência cardíaca e respiratória, deixando o corpo em um estado de tranquilidade, e que também desempenha um papel fundamental na relação entre o sistema emocional, o trato gastrointestinal e a inflamação. De modo geral, um tônus vagal elevado está relacionado com altos níveis de conectividade e bem estar.</p5> <br>
 
 				<p6>Além disso, o treinamento de LPF também atua diretamente na mobilização miofascial do diafragma com objetivo de melhorar sua mobilidade para que ocorra ajustes no controle e alinhamento postural, melhora da capacidade respiratória, do trânsito intestinal, da circulação de retorno, da descompressão da coluna lombar entre outras melhoras em diferentes sistemas abordados acima.</p6> </p>
 			</div>
